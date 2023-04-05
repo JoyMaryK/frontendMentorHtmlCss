@@ -80,13 +80,16 @@ body{
 }
 .verbalTitle{
     color: green;
+    margin-right: 92px;
 }
 .visualTitle{
     color: blue;
+    margin-right: 92px;
+
 }
 #reaction{
     background-color: rgb(247, 233, 236);
-    margin-left: 10px;    
+    /* margin-left: 10px;     */
 }
 #memory{
     background-color: rgb(243, 234, 235);     
@@ -110,6 +113,3 @@ button{
     
 }
 
-#percent{
-   
-}
