@@ -21,6 +21,7 @@ body{
     display: flex;
     flex-direction: column;
     gap: 5px;
+    margin-left: 15px;
 }
 
 #resultContainer{
@@ -59,7 +60,6 @@ body{
     display: flex;
     padding-left: 10px;
     padding-right: 10px;
-    flex-direction: row;
     margin-bottom: 2px;
     border-radius: 7px;
     margin-left: 10px;  
